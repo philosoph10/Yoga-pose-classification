@@ -30,4 +30,4 @@ The model's performance is evaluated using the validation set, and the best mode
 
 The solution achieved a Mean F1 score of 0.89 on the Kaggle competition. The code provided in this notebook demonstrates the complete pipeline from data preparation to model training and evaluation. You can use this code as a starting point to tackle similar computer vision problems or yoga pose classification tasks.
 
-For more details, refer to the [Jupyter Notebook](yoga_pose_classification.ipynb) in this repository.
+For more details, refer to the [Jupyter Notebook](yoga-pose-classification.ipynb) in this repository.
